@@ -1,7 +1,7 @@
 # Data_For_Biomarker_Analysis
 
 # Lefse_Analysis
-#Contains the Data and Code for the Lefse Analysis in R.
+Contains the Data and Code for the Lefse Analysis in R.
 
 ALL_Cats ---> This is for all phylum ,genus ,order , family and class.
 
